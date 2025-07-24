@@ -60,7 +60,7 @@
 ## 🚀 Live Demo
 
 ✅ **Streamlit App:**  
-[👉 View the Model in Action](https://time-prediction.streamlit.app/)
+[👉 Time Prediction ](https://time-prediction.streamlit.app/)
 
 ---
 
