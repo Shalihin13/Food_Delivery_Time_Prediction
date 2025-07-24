@@ -19,8 +19,8 @@
 
 ## 📊 Dataset
 
-- **Source:** [Kaggle - Telecom Churn Dataset](https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction)
-- **Features:** Order ID, Distance, Courier Experience, Preparation Time, Traffic Level, Weather, Vehicle Type, Time Of Day
+- **Source:** [Kaggle - Food Delivery Time Prediction](https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction)
+- **Features:** `Order ID, Distance, Courier Experience, Preparation Time, Traffic Level, Weather, Vehicle Type, Time Of Day`
 - **Target:** `Delivery Time`
 
 ---
