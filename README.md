@@ -67,7 +67,9 @@
 ## 📄 Report
 
 👁️**View full report (PDF):**  
-[Churn Analysis - Google Drive](https://drive.google.com/file/d/1698Vimadpeede9yH2HNVDJha1TweMD3L/view?usp=sharing).
+[Delivery Time Prediction - Google Drive](https://drive.google.com/file/d/1698Vimadpeede9yH2HNVDJha1TweMD3L/view?usp=sharing).
+
+[Dashboard Deliver Overview](https://lookerstudio.google.com/reporting/7d7ef698-0a77-4a4f-9819-5d546e54b2af).
 
 ---
 
